@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "docx-preview": "^0.1.4",
+    "jszip": "^3.10.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
